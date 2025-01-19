@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "ms-vscode.vscode-typescript-next",
+    "EditorConfig.EditorConfig",
+    "dbaeumer.vscode-eslint",
+    "ecmel.vscode-html-css",
+    "xabikos.JavaScriptSnippets",
+    "esbenp.prettier-vscode",
+    "christian-kohler.npm-intellisense",
+    "EQuimper.react-native-react-redux",
+    "mrmlnc.vscode-scss",
+    "bradlc.vscode-tailwindcss"
+  ]
+}
