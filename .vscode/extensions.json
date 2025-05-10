@@ -7,7 +7,6 @@
     "esbenp.prettier-vscode",
     "christian-kohler.npm-intellisense",
     "EQuimper.react-native-react-redux",
-    "mrmlnc.vscode-scss",
     "bradlc.vscode-tailwindcss"
   ]
 }
